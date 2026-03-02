@@ -1,0 +1,19 @@
+{
+  "api_key": "",
+  "poll_interval_minutes": 30,
+  "initial_lookback_days": 7,
+  "output_filename": "companies_tracker.xlsx",
+  "sic_categories": {
+    "Holding Companies": ["64209", "64205", "70100"],
+    "Consultancy": ["70229", "70221", "74909", "62020"],
+    "IT Companies": ["62012", "62020", "62030", "62090", "63110"],
+    "AI Companies": ["62012", "62020", "62090", "72190"],
+    "Manufacturing": ["25990", "28290", "32990", "22290", "10710"],
+    "Travel": ["79110", "79120", "79901", "79909", "51101"],
+    "HealthTech & Life Sciences": ["72110", "72190", "21200", "32500"],
+    "Fintech & Financial Services": ["64999", "66190", "62012"],
+    "Energy & Climate": ["35110", "35140", "71122", "74901"],
+    "Advanced Mfg & Deep Tech": ["26110", "26511", "28290", "30300"],
+    "Data & Cloud Infra": ["63110", "63120", "62030"]
+  }
+}

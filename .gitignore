@@ -1,0 +1,6 @@
+tracker.log
+*.log
+__pycache__/
+*.pyc
+*.pyo
+run_tracker.bat
