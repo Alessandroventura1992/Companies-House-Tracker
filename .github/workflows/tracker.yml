@@ -3,6 +3,7 @@ name: Companies House Tracker
 on:
   schedule:
     - cron: '0 * * * *'   # Every hour — change to '*/30 * * * *' for 30-min updates
+    - cron: '30 * * * *' 
   workflow_dispatch:        # Allow manual trigger from the Actions tab
 
 jobs:
