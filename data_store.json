@@ -621594,5 +621594,43 @@
       }
     ],
     "fetched_at": "2026-03-23T21:56:33.367038"
+  },
+  "17111604": {
+    "company_number": "17111604",
+    "company_name": "RI GLOBAL TRADE LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "47910",
+      "62020"
+    ],
+    "registered_address": "18 Wilfred Avenue, Rainham, RM13 9TX",
+    "officers": [
+      {
+        "name": "ISLAM, Riffat",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Riffat Islam",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T22:02:15.773053"
   }
 }
