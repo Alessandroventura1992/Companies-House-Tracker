@@ -621632,5 +621632,356 @@
       }
     ],
     "fetched_at": "2026-03-23T22:02:15.773053"
+  },
+  "17111642": {
+    "company_number": "17111642",
+    "company_name": "FINAULT AI LABS LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "70221",
+      "70229",
+      "73110"
+    ],
+    "registered_address": "Flat 902 Baldwin Point 6 Sayer Street, London, SE17 1FH",
+    "officers": [
+      {
+        "name": "YELUGAM, Vamshi Krishna",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1997
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Vamshi Krishna Yelugam",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:55:43.354890"
+  },
+  "17111647": {
+    "company_number": "17111647",
+    "company_name": "AUREX ADVISORY LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "69201",
+      "69202",
+      "70221",
+      "70229"
+    ],
+    "registered_address": "31 Westbank Road, Manchester, M20 4SU",
+    "officers": [
+      {
+        "name": "MOHAMED ASHRAFF, Safri Mohamed",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Safri Mohamed Mohamed Ashraff",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:55:44.552062"
+  },
+  "17111611": {
+    "company_number": "17111611",
+    "company_name": "CHANCE MEDIA SOLUTIONS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "59112",
+      "70229",
+      "85520",
+      "90030"
+    ],
+    "registered_address": "Flat 39 Stevens Terrace, 45 St. Pauls Square, Birmingham, B3 1QS",
+    "officers": [
+      {
+        "name": "CHANCE, Craig Jonathan Collin",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Craig Jonathan Collin Chance",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:55:45.746213"
+  },
+  "17111650": {
+    "company_number": "17111650",
+    "company_name": "DELVIAN SOLUTIONS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "46510",
+      "62012",
+      "62020",
+      "62090"
+    ],
+    "registered_address": "3 Parkhill Road, Burntwood, WS7 2ER",
+    "officers": [
+      {
+        "name": "AHMAD, Mohammed Shamim",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Mohammed Shamim Ahmad",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:55:46.949621"
+  },
+  "17111652": {
+    "company_number": "17111652",
+    "company_name": "JON EVANS CONSULTING LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "124-128 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "EVANS, Jonathan Richard Henry",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jonathan Richard Henry Evans",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:55:48.146824"
+  },
+  "17111631": {
+    "company_number": "17111631",
+    "company_name": "VISUAL MENU LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "73110"
+    ],
+    "registered_address": "55 Ascot Way, Bicester, OX26 1AG",
+    "officers": [
+      {
+        "name": "BUSHE, Hope",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Hope Bushe",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:55:49.338181"
+  },
+  "17111630": {
+    "company_number": "17111630",
+    "company_name": "N(CUBED) LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "58290",
+      "62012"
+    ],
+    "registered_address": "27 Esplanade, Rochester, ME1 1QX",
+    "officers": [
+      {
+        "name": "CHOUDHURY, Amrita",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Amrita Choudhury",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:55:50.566862"
+  },
+  "17111651": {
+    "company_number": "17111651",
+    "company_name": "SAFESITE AI TECHNOLOGY LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "71122"
+    ],
+    "registered_address": "89 Poppleton Close, Coventry, CV1 3BN",
+    "officers": [
+      {
+        "name": "ISEGHOHIMEN, Sunny Oisezele",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sunny Oisezele Iseghohimen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:55:51.747603"
+  },
+  "17111632": {
+    "company_number": "17111632",
+    "company_name": "NOORVISTA TRAVELS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "79110"
+    ],
+    "registered_address": "5 Dalcross Street, Bradford, BD5 7HQ",
+    "officers": [
+      {
+        "name": "TALIB, Ahsan",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ahsan Talib",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T23:55:52.946081"
   }
 }
