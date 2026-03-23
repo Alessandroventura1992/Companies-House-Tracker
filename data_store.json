@@ -621176,5 +621176,423 @@
       }
     ],
     "fetched_at": "2026-03-23T20:58:49.271928"
+  },
+  "17111571": {
+    "company_number": "17111571",
+    "company_name": "GOKAY HOLDING LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "29 Chalford Road, London, SE21 8BX",
+    "officers": [
+      {
+        "name": "KURTULDUM, Gokay",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Gokay Kurtuldum",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:56:21.330083"
+  },
+  "17111598": {
+    "company_number": "17111598",
+    "company_name": "RCL CONSULTANCY LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "68320",
+      "70229"
+    ],
+    "registered_address": "18 High West Street, Dorchester, DT1 1UW",
+    "officers": [
+      {
+        "name": "LAKE, Reuben Courtney",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2000
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Reuben Courtney Lake",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2000
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:56:22.542394"
+  },
+  "17111585": {
+    "company_number": "17111585",
+    "company_name": "BROOKLANDS MEDIA GROUP LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "73110"
+    ],
+    "registered_address": "23 Barley Avenue, Pocklington, York, YO42 2RW",
+    "officers": [
+      {
+        "name": "CLUBLEY OWEN, Richard Oliver",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Richard Oliver Clubley Owen",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:56:23.712650"
+  },
+  "17111589": {
+    "company_number": "17111589",
+    "company_name": "TENTRO TECH AND DEVICE SOLUTIONS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "47421",
+      "47789",
+      "47910",
+      "62020"
+    ],
+    "registered_address": "2 Broom Chase, Rotherham, S60 2SQ",
+    "officers": [
+      {
+        "name": "SHEHZAD, Muhammad",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1997
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Muhammad Shehzad",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Pakistani",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:56:24.935580"
+  },
+  "17111556": {
+    "company_number": "17111556",
+    "company_name": "NK LABS TECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "11 Tyrell Gardens, Windsor, SL4 4DH",
+    "officers": [
+      {
+        "name": "KIDD, Niall Andre",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Niall Andre Kidd",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:56:26.132297"
+  },
+  "17111597": {
+    "company_number": "17111597",
+    "company_name": "OKORO SOFTWARE SERVICES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "60 Farthington Drive, Nuneaton, CV11 6WX",
+    "officers": [
+      {
+        "name": "OKORO, Nnaemeka George",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 2005
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Nnaemeka George Okoro",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 2005
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:56:27.334856"
+  },
+  "17111557": {
+    "company_number": "17111557",
+    "company_name": "WAFFLE TECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "20 Vineyard Hill Road, London, SW19 7JH",
+    "officers": [
+      {
+        "name": "LEE, Richard Jacques Seesen",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1968
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Zoe Emma Yashi Lee",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2009
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:56:28.549085"
+  },
+  "17111602": {
+    "company_number": "17111602",
+    "company_name": "PULSEINTEL LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "63110"
+    ],
+    "registered_address": "Apartment 5 Whirlow Grange, 6 Whirlow Grange Close, Sheffield, S11 9SY",
+    "officers": [
+      {
+        "name": "WHITE, Peter Edward",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Peter Edward White",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:56:29.757176"
+  },
+  "17111582": {
+    "company_number": "17111582",
+    "company_name": "IGNITE FABRICATION LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "25110",
+      "25990",
+      "33200",
+      "47910"
+    ],
+    "registered_address": "30 Glan Garth, Wrexham, LL12 7DT",
+    "officers": [
+      {
+        "name": "DAVIES, Michael Brian Nikky",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Michael Brian Nikky Davies",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:56:30.927726"
+  },
+  "17111591": {
+    "company_number": "17111591",
+    "company_name": "HYBRID CAPITAL SOLUTIONS LIMITED",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "66190"
+    ],
+    "registered_address": "1 Elmcroft Close, London, W5 2HQ",
+    "officers": [
+      {
+        "name": "ADEOLA, Adeolu",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1969
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Adeolu Adeola",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1969
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:56:32.151296"
+  },
+  "17111581": {
+    "company_number": "17111581",
+    "company_name": "GECHAR CONSULTANTS LTD",
+    "date_of_creation": "2026-03-23",
+    "company_status": "active",
+    "sic_codes": [
+      "74901"
+    ],
+    "registered_address": "11 Saunders End, Hyde Heath, Amersham, HP6 5SH",
+    "officers": [
+      {
+        "name": "SMITH, James Alexander",
+        "role": "director",
+        "appointed_on": "2026-03-23",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr James Alexander Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-23T21:56:33.367038"
   }
 }
