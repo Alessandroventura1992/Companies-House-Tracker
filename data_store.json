@@ -622172,5 +622172,42 @@
       }
     ],
     "fetched_at": "2026-03-24T05:17:33.100565"
+  },
+  "17111703": {
+    "company_number": "17111703",
+    "company_name": "ANVUL LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "62090"
+    ],
+    "registered_address": "16 Radford Road, Stoke-On-Trent, ST4 7DA",
+    "officers": [
+      {
+        "name": "ZYAD, Muhammed Ali",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2002
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Muhammed Ali Zyad",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2002
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T05:39:24.146026"
   }
 }
