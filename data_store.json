@@ -651708,5 +651708,156 @@
       }
     ],
     "fetched_at": "2026-03-24T23:04:10.963239"
+  },
+  "17114539": {
+    "company_number": "17114539",
+    "company_name": "PRECISION EDGE CONSULTING LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Flat 1 Shire House, Farriers Way, Watford, WD25 9BW",
+    "officers": [
+      {
+        "name": "SHARP, Ryan David",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1995
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ryan David Sharp",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1995
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T23:53:59.955915"
+  },
+  "17114540": {
+    "company_number": "17114540",
+    "company_name": "SIGMATIV8 LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "58290",
+      "63110",
+      "63990",
+      "70229"
+    ],
+    "registered_address": "9 Reservoir Crescent, Reading, RG1 6FG",
+    "officers": [
+      {
+        "name": "KOPKA, Matthew Paul",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Matthew Paul Kopka",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T23:54:01.158113"
+  },
+  "17114547": {
+    "company_number": "17114547",
+    "company_name": "CLARITY DH LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "The Mclaren Building, 46 The Priory Queensway, Birmingham, B4 7LR",
+    "officers": [
+      {
+        "name": "HOLDEN, David John",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1967
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr David John Holden",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1967
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T23:54:02.369906"
+  },
+  "17114531": {
+    "company_number": "17114531",
+    "company_name": "MARLIN CONSULTANCY LTD",
+    "date_of_creation": "2026-03-24",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Edgcott House, Edgcott, Aylesbury, HP18 0QW",
+    "officers": [
+      {
+        "name": "MARLIN, Soffia Robin",
+        "role": "director",
+        "appointed_on": "2026-03-24",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Soffia Robin Marlin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-24T23:54:03.532567"
   }
 }
