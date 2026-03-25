@@ -674824,5 +674824,268 @@
       }
     ],
     "fetched_at": "2026-03-25T18:39:54.412350"
+  },
+  "17117155": {
+    "company_number": "17117155",
+    "company_name": "FJ BRYAN CONSULTING LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "59 Tavistock Drive, Nottingham, NG3 5DU",
+    "officers": [
+      {
+        "name": "BRYAN, Frances Jane",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1966
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Frances Jane Bryan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1966
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T19:54:07.659309"
+  },
+  "17117152": {
+    "company_number": "17117152",
+    "company_name": "G WILSON ADVISORY LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "130 Farnaby Road, Bromley, BR1 4BH",
+    "officers": [
+      {
+        "name": "WILSON, Gareth Anthony, Dr",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Dr Gareth Anthony Wilson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T19:54:08.855285"
+  },
+  "17117133": {
+    "company_number": "17117133",
+    "company_name": "BEECH ARC PARTNERS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Mill House, Liphook Road, Haslemere, GU27 3QE",
+    "officers": [
+      {
+        "name": "BEECHER, Rina Devika",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Ms Rina Devika Beecher",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T19:54:10.057291"
+  },
+  "17117134": {
+    "company_number": "17117134",
+    "company_name": "CENTRAL EVENT CONTROL LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "63120"
+    ],
+    "registered_address": "Flat 16 Ashley Heights, Ashley Down Road, Bristol, BS7 9DD",
+    "officers": [
+      {
+        "name": "MENDHAM, Thomas Jeffrey",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Thomas Jeffrey Mendham",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T19:54:11.247218"
+  },
+  "17117157": {
+    "company_number": "17117157",
+    "company_name": "LITTLE AND LUX LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "32990"
+    ],
+    "registered_address": "39 Garth End Road, West Ayton, Scarborough, YO13 9JJ",
+    "officers": [
+      {
+        "name": "BURNS, Simone",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1988
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Simone Burns",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1988
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T19:54:12.446532"
+  },
+  "17117131": {
+    "company_number": "17117131",
+    "company_name": "MYERS ENGINEERING LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "71121",
+      "71122"
+    ],
+    "registered_address": "137 Holme Church Lane, Beverley, HU17 0QL",
+    "officers": [
+      {
+        "name": "MYERS, Alexander Watson",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Alexander Watson Myers",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T19:54:13.657283"
+  },
+  "17117143": {
+    "company_number": "17117143",
+    "company_name": "RUK SERVICES LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "59112",
+      "63120",
+      "90030"
+    ],
+    "registered_address": "33 Coniston Close, Erith, DA8 3BD",
+    "officers": [
+      {
+        "name": "GURUNG, Sujan",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sujan Gurung",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T19:54:14.853224"
   }
 }
