@@ -651859,5 +651859,411 @@
       }
     ],
     "fetched_at": "2026-03-24T23:54:03.532567"
+  },
+  "17114575": {
+    "company_number": "17114575",
+    "company_name": "HOSPERA LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Flat 92 Smith House, Elmwood Avenue, Feltham, TW13 7QH",
+    "officers": [
+      {
+        "name": "MOSLEH, Chaymaa, Ms.",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Moroccan",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1997
+        }
+      },
+      {
+        "name": "SINGH, Raj, Mr.",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr. Raj Singh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1992
+        }
+      },
+      {
+        "name": "Ms. Chaymaa Mosleh",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Moroccan",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1997
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T05:17:35.382598"
+  },
+  "17114566": {
+    "company_number": "17114566",
+    "company_name": "THIRTYSEVENGB LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "47190",
+      "70229",
+      "81210",
+      "87900"
+    ],
+    "registered_address": "124-128 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "AKINOLA, Yewande Oluyomi",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1973
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Yewande Oluyomi Akinola",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1973
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T05:17:36.584217"
+  },
+  "17114582": {
+    "company_number": "17114582",
+    "company_name": "TRADES AI OPERATOR LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090",
+      "63110",
+      "70229"
+    ],
+    "registered_address": "5 Brayford Square, London, E1 0SG",
+    "officers": [
+      {
+        "name": "RAYMOND, Ryan Anthony",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1994
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Raymond Sovereign Ltd",
+        "kind": "corporate-entity-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "",
+        "country_of_residence": "",
+        "date_of_birth": {}
+      }
+    ],
+    "fetched_at": "2026-03-25T05:17:37.788764"
+  },
+  "17114571": {
+    "company_number": "17114571",
+    "company_name": "N4P FINANCE SOLUTIONS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70221"
+    ],
+    "registered_address": "12 Measham Road, Donisthorpe, Swadlincote, DE12 7QQ",
+    "officers": [
+      {
+        "name": "TOMLIN, David Nicholas",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr David Nicholas Tomlin",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T05:17:38.990723"
+  },
+  "17114588": {
+    "company_number": "17114588",
+    "company_name": "MARSTACK LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "73110",
+      "74909"
+    ],
+    "registered_address": "7a Eastern Terrace Mews, Brighton, BN2 1EP",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T05:17:40.204537"
+  },
+  "17114567": {
+    "company_number": "17114567",
+    "company_name": "REINSTATED LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "The Cider House Halmore Lane, Halmore, Berkeley, GL13 9HQ",
+    "officers": [
+      {
+        "name": "WILLIAMS, Luke Glenn",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Luke Glenn Williams",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T05:17:41.384882"
+  },
+  "17114577": {
+    "company_number": "17114577",
+    "company_name": "SAPTA TECH LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090"
+    ],
+    "registered_address": "5 Boldison Close, Aylesbury, HP19 8JL",
+    "officers": [
+      {
+        "name": "KORITALA, Rama Rao",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Rama Rao Koritala",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Indian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T05:17:42.582595"
+  },
+  "17114579": {
+    "company_number": "17114579",
+    "company_name": "TRADEMATE TECHNOLOGIES LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020"
+    ],
+    "registered_address": "Apartment 13 Quay House, 5 Trafford Road, Salford, M5 3NR",
+    "officers": [
+      {
+        "name": "HAASTRUP, Ibironke Olufunke",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Ibironke Olufunke Haastrup",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T05:17:43.793040"
+  },
+  "17114578": {
+    "company_number": "17114578",
+    "company_name": "RAMAJAB LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "80100"
+    ],
+    "registered_address": "29 Mandora Road, Wellesley, Aldershot, GU11 4FQ",
+    "officers": [
+      {
+        "name": "ALUOCH, Raymond Opiyo",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Raymond Opiyo Aluoch",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T05:17:44.992139"
+  },
+  "17114587": {
+    "company_number": "17114587",
+    "company_name": "DESIGNVERSE LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62090"
+    ],
+    "registered_address": "62 Hyde Way, Hayes, UB3 4PB",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T05:17:46.196169"
+  },
+  "17114586": {
+    "company_number": "17114586",
+    "company_name": "JCRANESRTB LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "32990",
+      "43999",
+      "71129"
+    ],
+    "registered_address": "16 Hunston Close, Luton, LU4 9HB",
+    "officers": [],
+    "pscs": [],
+    "fetched_at": "2026-03-25T05:17:47.389133"
+  },
+  "17114576": {
+    "company_number": "17114576",
+    "company_name": "JI STRATEGIC LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "66190"
+    ],
+    "registered_address": "28 Agister Road, Chigwell, IG7 4NY",
+    "officers": [
+      {
+        "name": "IGBOKWE, Jamal Iyke Sam",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2003
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Jamal Iyke Sam Igbokwe",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 2003
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T05:17:48.591343"
   }
 }
