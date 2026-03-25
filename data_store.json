@@ -675087,5 +675087,621 @@
       }
     ],
     "fetched_at": "2026-03-25T19:54:14.853224"
+  },
+  "17117182": {
+    "company_number": "17117182",
+    "company_name": "BRISBY PROJECTS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "14 Biddulph Road, London, W9 1JB",
+    "officers": [
+      {
+        "name": "BRISBY, Michael Douglas James",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Michael Douglas James Brisby",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:11.015377"
+  },
+  "17117189": {
+    "company_number": "17117189",
+    "company_name": "SUK88 CONSULTING LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "1 Middleton Close, Swindon, SN3 3JP",
+    "officers": [
+      {
+        "name": "LIMBU, Sukman",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Nepalese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 2003
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sukman Limbu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nepalese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 2003
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:12.248828"
+  },
+  "17117178": {
+    "company_number": "17117178",
+    "company_name": "VIRTUS ENTERPRISE LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "GOMEZ DE STEVENSON, Carely Josefina",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1971
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Carely Josefina Gomez De Stevenson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1971
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:13.489101"
+  },
+  "17117169": {
+    "company_number": "17117169",
+    "company_name": "BONDESTIN SOLUTIONS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "64999",
+      "70229",
+      "82990"
+    ],
+    "registered_address": "2 Applebees Walk, Hinckley, LE10 0FW",
+    "officers": [
+      {
+        "name": "KUDZU, Michel Komla Senyo",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "French",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1976
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Michel Komla Senyo Kudzu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent",
+        "nationality": "French",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1976
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:14.756311"
+  },
+  "17117167": {
+    "company_number": "17117167",
+    "company_name": "GMS OFFSHORE CONSULTING LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "74909"
+    ],
+    "registered_address": "5 Holly Grange Road, Kessingland, Lowestoft, NR33 7RR",
+    "officers": [
+      {
+        "name": "SIMPSON, George Mitchell",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1966
+        }
+      },
+      {
+        "name": "SIMPSON, Lisa Frances",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1967
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr George Mitchell Simpson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1966
+        }
+      },
+      {
+        "name": "Mrs Lisa Frances Simpson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1967
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:15.988713"
+  },
+  "17117196": {
+    "company_number": "17117196",
+    "company_name": "SANDHU ADVISORY LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "62090"
+    ],
+    "registered_address": "27 Jacey Road, Solihull, B90 3LJ",
+    "officers": [
+      {
+        "name": "SANDHU, Tervinder Singh",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Tervinder Singh Sandhu",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 2,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:17.238973"
+  },
+  "17117194": {
+    "company_number": "17117194",
+    "company_name": "ABHI KALIA LTD - CONSULTING LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "10 Woolley Drive, Fradley, Lichfield, WS13 8ZY",
+    "officers": [
+      {
+        "name": "KALIA, Abhi",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Abhi Kalia",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1984
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:18.440222"
+  },
+  "17117198": {
+    "company_number": "17117198",
+    "company_name": "ADVOCATE TECHNOLOGY LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Hall Cottage, North Milford, Tadcaster, LS24 9DQ",
+    "officers": [
+      {
+        "name": "BAKER, James Richard",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1981
+        }
+      },
+      {
+        "name": "PRESTON, Ian Robert",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ian Robert Preston",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1980
+        }
+      },
+      {
+        "name": "Mr James Richard Baker",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:19.664676"
+  },
+  "17117199": {
+    "company_number": "17117199",
+    "company_name": "AXIS AND ORCHARD GROUP LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Flat 25 22 St. James's Road, London, SE16 4QJ",
+    "officers": [
+      {
+        "name": "VON BORRIES, Anton Felix",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "German",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1996
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Anton Felix Von Borries",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "German",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:20.912163"
+  },
+  "17117176": {
+    "company_number": "17117176",
+    "company_name": "DOMESTIC WORKS RECORD LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "28 Woodend Road, Bournemouth, BH9 2JQ",
+    "officers": [
+      {
+        "name": "STOCKER, Paul Simon",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Paul Simon Stocker",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:22.148700"
+  },
+  "17117186": {
+    "company_number": "17117186",
+    "company_name": "PEARLBRIDGE NETWORK LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "49410",
+      "52290",
+      "53202",
+      "62012"
+    ],
+    "registered_address": "4a High Street, Horley, RH6 7BG",
+    "officers": [
+      {
+        "name": "AROYEWUN, Oluwadamilola Adenike",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Oluwadamilola Adenike Aroyewun",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:23.371217"
+  },
+  "17117193": {
+    "company_number": "17117193",
+    "company_name": "NRW ACCESS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "25990"
+    ],
+    "registered_address": "17 Pightle Close, Bradwell, Great Yarmouth, NR31 8TT",
+    "officers": [
+      {
+        "name": "WOODS, Joshua Carn",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Joshua Carn Woods",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1990
+        }
+      },
+      {
+        "name": "Mrs Jade Louise Woods",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "English",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:24.631206"
+  },
+  "17117216": {
+    "company_number": "17117216",
+    "company_name": "JJM AVIATION CONSULTING LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "71122"
+    ],
+    "registered_address": "8 Bryn-Teg Crescent, Rhymney, Tredegar, NP22 5PE",
+    "officers": [
+      {
+        "name": "MOSELEY, John James",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1985
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr John James Moseley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1985
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:25.873721"
+  },
+  "17117170": {
+    "company_number": "17117170",
+    "company_name": "HL WEB DESIGNS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "63120"
+    ],
+    "registered_address": "Unit 1 Abbots Quay, Monks Ferry, Birkenhead, CH41 5LH",
+    "officers": [
+      {
+        "name": "LOWE, Harvey Owen",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2002
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Harvey Owen Lowe",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 9,
+          "year": 2002
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:27.108502"
+  },
+  "17117219": {
+    "company_number": "17117219",
+    "company_name": "CUE THE CONTENT LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "63120"
+    ],
+    "registered_address": "61 Bridge Street, Kington, HR5 3DJ",
+    "officers": [
+      {
+        "name": "PATEL, Roshni",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Roshni Patel",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T20:58:28.354939"
   }
 }
