@@ -675703,5 +675703,444 @@
       }
     ],
     "fetched_at": "2026-03-25T20:58:28.354939"
+  },
+  "17117268": {
+    "company_number": "17117268",
+    "company_name": "FINTERRA LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "4 Mayfield Avenue, New Haw, Addlestone, KT15 3AG",
+    "officers": [
+      {
+        "name": "POWELL, Derren John",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1977
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Derren John Powell",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1977
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T22:05:43.429410"
+  },
+  "17117267": {
+    "company_number": "17117267",
+    "company_name": "TRAVAX LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "63120",
+      "70229",
+      "79909",
+      "82990"
+    ],
+    "registered_address": "3 Periwinkle Court, 15 Pasteur Drive, Swindon, SN1 4GG",
+    "officers": [
+      {
+        "name": "AINDERO, Mosunmola",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1980
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mosunmola Aindero",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Nigerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1980
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T22:05:44.629063"
+  },
+  "17117269": {
+    "company_number": "17117269",
+    "company_name": "SA WISE ADVISORY & CONSULTING LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "Woodbourne House, 10 Harborne Road, Birmingham, B15 3AA",
+    "officers": [
+      {
+        "name": "WISE, Nzar Hussen",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Nzar Hussen Wise",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T22:05:45.834569"
+  },
+  "17117244": {
+    "company_number": "17117244",
+    "company_name": "CROSSAND LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "CROSS, Timothy Neal",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1986
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Timothy Neal Cross",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1986
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T22:05:47.032969"
+  },
+  "17117272": {
+    "company_number": "17117272",
+    "company_name": "BK MOTOR GROUP LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "45200",
+      "49410",
+      "74909",
+      "77110"
+    ],
+    "registered_address": "38 Woodstock Road, London, E7 8ND",
+    "officers": [
+      {
+        "name": "LODHI, Ahmer Bashir Khan",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Ahmer Bashir Khan Lodhi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T22:05:48.242966"
+  },
+  "17117224": {
+    "company_number": "17117224",
+    "company_name": "JS NEXUS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "62090",
+      "63990"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "ENCHILL, Sonny Quesie",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Ghanaian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Sonny Quesie Enchill",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Ghanaian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T22:05:49.474539"
+  },
+  "17117225": {
+    "company_number": "17117225",
+    "company_name": "GRASSHOPPER LABS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "22 Stephenson Way, Didcot, OX11 9AU",
+    "officers": [
+      {
+        "name": "ENDRIZZI, Marco",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1999
+        }
+      },
+      {
+        "name": "IVANOV, Georgi Kirilov",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Bulgarian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 2000
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Georgi Kirilov Ivanov",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Bulgarian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 2000
+        }
+      },
+      {
+        "name": "Mr Marco Endrizzi",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Italian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 9,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T22:05:50.634973"
+  },
+  "17117222": {
+    "company_number": "17117222",
+    "company_name": "TRIGS LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Apartment 21 30 City Road East, Manchester, M15 4TD",
+    "officers": [
+      {
+        "name": "ROBINSON, James George Edward",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr James George Edward Robinson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T22:05:51.830278"
+  },
+  "17117236": {
+    "company_number": "17117236",
+    "company_name": "SOLLERT LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "12 Cardiff Street, Barrow-In-Furness, LA14 3AQ",
+    "officers": [
+      {
+        "name": "SPEAKE, Bradley Ross",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1998
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Bradley Ross Speake",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1998
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T22:05:53.033341"
+  },
+  "17117238": {
+    "company_number": "17117238",
+    "company_name": "PROSPERO FINANCIAL ADVISORY LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "66190"
+    ],
+    "registered_address": "Unit 3 Churchill Court 58 Station Road, North Harrow, Harrow, HA2 7SA",
+    "officers": [
+      {
+        "name": "BHUDIA, Sunil Ashok",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Sunil Ashok Bhudia",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T22:05:54.230026"
+  },
+  "17117273": {
+    "company_number": "17117273",
+    "company_name": "ZENITH ENERGY DEVELOPMENTS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "41100",
+      "71122"
+    ],
+    "registered_address": "Suite 4 New Humberstone House, 40 Thurmaston Lane, Leicester, LE5 0TE",
+    "officers": [
+      {
+        "name": "HADDAD, Omar",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "English,Algerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1993
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Omar Haddad",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "English,Algerian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1993
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T22:05:55.435847"
   }
 }
