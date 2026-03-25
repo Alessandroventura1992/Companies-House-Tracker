@@ -676142,5 +676142,489 @@
       }
     ],
     "fetched_at": "2026-03-25T22:05:55.435847"
+  },
+  "17117298": {
+    "company_number": "17117298",
+    "company_name": "OPERON LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "3rd Floor, 86-90 Paul Street, London, EC2A 4NE",
+    "officers": [
+      {
+        "name": "DELISE, Marco",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Italian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Marco Delise",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Italian",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 4,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T23:01:51.970887"
+  },
+  "17117306": {
+    "company_number": "17117306",
+    "company_name": "STERLING SUPPORT GROUP LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "70229",
+      "82110",
+      "82990"
+    ],
+    "registered_address": "34 Shireland Road, Smethwick, B66 4RG",
+    "officers": [
+      {
+        "name": "AHMED, Hamza Nihal",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Pakistani",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1999
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Hamza Nihal Ahmed",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent",
+        "nationality": "Pakistani",
+        "country_of_residence": "United Kingdom",
+        "date_of_birth": {
+          "month": 12,
+          "year": 1999
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T23:01:53.174453"
+  },
+  "17117303": {
+    "company_number": "17117303",
+    "company_name": "DISTYLL LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62020",
+      "63110",
+      "70229"
+    ],
+    "registered_address": "34 Julians Reen Close, Newport, NP19 4UG",
+    "officers": [
+      {
+        "name": "ATKINS, Morgan Thomas",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1992
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Morgan Thomas Atkins",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Wales",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1992
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T23:01:54.373050"
+  },
+  "17117280": {
+    "company_number": "17117280",
+    "company_name": "FLOWFORM AI LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012",
+      "62020",
+      "63110"
+    ],
+    "registered_address": "86b Putnoe Lane, Bedford, MK41 9AG",
+    "officers": [
+      {
+        "name": "DHAKAM, Zain Imtiaz",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 2001
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Zain Imtiaz Dhakam",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 12,
+          "year": 2001
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T23:01:55.566256"
+  },
+  "17117278": {
+    "company_number": "17117278",
+    "company_name": "LYDEX SOLUTIONS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "58210",
+      "62012"
+    ],
+    "registered_address": "19 Avon Way, Bidford-On-Avon, Alcester, B50 4GP",
+    "officers": [
+      {
+        "name": "TALBOT, Cheryl Nicola",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1987
+        }
+      },
+      {
+        "name": "TALBOT, Edward James",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Edward James Talbot",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-50-to-75-percent; voting-rights-50-to-75-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 6,
+          "year": 1989
+        }
+      },
+      {
+        "name": "Mrs Cheryl Nicola Talbot",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 10,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T23:01:56.781340"
+  },
+  "17117281": {
+    "company_number": "17117281",
+    "company_name": "DANTE APOLLO LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "18 Magnolia Court, Beeston, Nottingham, NG9 3LG",
+    "officers": [
+      {
+        "name": "GEORGE, Alwyn Siby",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 2002
+        }
+      },
+      {
+        "name": "HADLEY, David Allan",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Polish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2002
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Alwyn Siby George",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 2002
+        }
+      },
+      {
+        "name": "Mr David Allan Hadley",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Polish",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 4,
+          "year": 2002
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T23:01:57.975796"
+  },
+  "17117309": {
+    "company_number": "17117309",
+    "company_name": "MOONCLAW LIMITED",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Flat 46 Eagle Works East, 58 Quaker Street, London, E1 6SX",
+    "officers": [
+      {
+        "name": "ZHANG, Haoyuan",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1990
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Haoyuan Zhang",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Chinese",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1990
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T23:01:59.171183"
+  },
+  "17117322": {
+    "company_number": "17117322",
+    "company_name": "BOOKI HEALTH LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "5 Rangifer Road, Fazeley, Tamworth, B78 3ST",
+    "officers": [
+      {
+        "name": "HICKMOTT, Michael Richard",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1987
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Michael Richard Hickmott",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1987
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T23:02:00.366639"
+  },
+  "17117320": {
+    "company_number": "17117320",
+    "company_name": "HAZELNUT GROUP LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "47910",
+      "58190",
+      "62090",
+      "85590"
+    ],
+    "registered_address": "49 Henley Road, Leicester, LE3 9RD",
+    "officers": [
+      {
+        "name": "DAGHMAN, Malek Almabrouk Saleh",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1988
+        }
+      },
+      {
+        "name": "DAGHMAN, Zyad Mabrouk Saleh",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1989
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Malek Almabrouk Saleh Daghman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1988
+        }
+      },
+      {
+        "name": "Mr Zyad Mabrouk Saleh Daghman",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1989
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T23:02:01.636235"
+  },
+  "17117305": {
+    "company_number": "17117305",
+    "company_name": "MRS MAGICAL EARS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "32990",
+      "47910"
+    ],
+    "registered_address": "2 Hamboro Gardens, Leigh-On-Sea, SS9 2NR",
+    "officers": [
+      {
+        "name": "BRIGSTOCK, Sarah Louise",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1977
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mrs Sarah Louise Brigstock",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1977
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T23:02:02.801097"
+  },
+  "17117282": {
+    "company_number": "17117282",
+    "company_name": "BLUE BALLOON FLIGHTS LTD",
+    "date_of_creation": "2026-03-25",
+    "company_status": "active",
+    "sic_codes": [
+      "79120"
+    ],
+    "registered_address": "73 Saxon Way, Bristol, BS32 9AR",
+    "officers": [
+      {
+        "name": "SAMPSON, Matthew",
+        "role": "director",
+        "appointed_on": "2026-03-25",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1991
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Matthew Sampson",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1991
+        }
+      }
+    ],
+    "fetched_at": "2026-03-25T23:02:03.976554"
   }
 }
