@@ -700997,5 +700997,79 @@
       }
     ],
     "fetched_at": "2026-03-26T19:42:46.195291"
+  },
+  "17119844": {
+    "company_number": "17119844",
+    "company_name": "CS QA CONSULTANCY LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "1 The Reynards, Mirfield, WF14 0JD",
+    "officers": [
+      {
+        "name": "SCOTT, Christopher James",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1974
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Christopher James Scott",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 5,
+          "year": 1974
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T20:03:20.341421"
+  },
+  "17119848": {
+    "company_number": "17119848",
+    "company_name": "CONTINUITY AI LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "Clay Bank Farmhouse Clay Bank, Hook Norton, Banbury, OX15 5PA",
+    "officers": [
+      {
+        "name": "SMITH, Adam",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1961
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Adam Smith",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1961
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T20:03:21.500794"
   }
 }
