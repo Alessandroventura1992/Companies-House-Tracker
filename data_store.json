@@ -701845,5 +701845,238 @@
       }
     ],
     "fetched_at": "2026-03-26T23:01:04.199913"
+  },
+  "SC884064": {
+    "company_number": "SC884064",
+    "company_name": "FLAME AND HEATHER LIMITED",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "64209"
+    ],
+    "registered_address": "24 Kirkland Gardens, Ballingry, Lochgelly, KY5 8NZ",
+    "officers": [
+      {
+        "name": "MACKIE, Neil Richard",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1983
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Neil Richard Mackie",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "Scotland",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1983
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T23:58:38.517244"
+  },
+  "17120005": {
+    "company_number": "17120005",
+    "company_name": "AMEN STRATEGIC LEADERSHIP LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "70229"
+    ],
+    "registered_address": "36 Granville Road, Luton, LU1 1PA",
+    "officers": [
+      {
+        "name": "KOHZAD BAYAT, Amen Amanda",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Miss Amen Amanda Kohzad Bayat",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 1,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T23:58:39.706241"
+  },
+  "17120008": {
+    "company_number": "17120008",
+    "company_name": "EUROSHIELDTLS LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "29 Hook Lane, Welling, DA16 2DH",
+    "officers": [
+      {
+        "name": "ANGELOV, Dimitar Rumenov",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "Bulgarian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Dimitar Rumenov Angelov",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "Bulgarian",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 7,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T23:58:40.909754"
+  },
+  "17120001": {
+    "company_number": "17120001",
+    "company_name": "VANLOGA LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62020"
+    ],
+    "registered_address": "Apartment 222 Skyline 165 Granville Street, Birmingham, B1 1JY",
+    "officers": [
+      {
+        "name": "LOSSO, Vanessa Aurelie Anne",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British,French",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1981
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Vanessa Aurelie Anne Losso",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British,French",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1981
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T23:58:42.114716"
+  },
+  "17119987": {
+    "company_number": "17119987",
+    "company_name": "AUTOMORPHISMS LIMITED",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "124-128 City Road, London, EC1V 2NX",
+    "officers": [
+      {
+        "name": "KOLCAK, Arda",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "French",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1979
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Arda Kolcak",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-75-to-100-percent; voting-rights-75-to-100-percent; right-to-appoint-and-remove-directors",
+        "nationality": "French",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 8,
+          "year": 1979
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T23:58:43.331740"
+  },
+  "17119986": {
+    "company_number": "17119986",
+    "company_name": "HSAN STUDIOS LTD",
+    "date_of_creation": "2026-03-26",
+    "company_status": "active",
+    "sic_codes": [
+      "62012"
+    ],
+    "registered_address": "45 Merefield Street, Rochdale, OL11 3RH",
+    "officers": [
+      {
+        "name": "HASSAN, Shoaib",
+        "role": "director",
+        "appointed_on": "2026-03-26",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1984
+        }
+      }
+    ],
+    "pscs": [
+      {
+        "name": "Mr Shoaib Hassan",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent; right-to-appoint-and-remove-directors",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 3,
+          "year": 1984
+        }
+      },
+      {
+        "name": "Mrs Angelina Khan Hussain",
+        "kind": "individual-person-with-significant-control",
+        "natures_of_control": "ownership-of-shares-25-to-50-percent; voting-rights-25-to-50-percent",
+        "nationality": "British",
+        "country_of_residence": "England",
+        "date_of_birth": {
+          "month": 11,
+          "year": 1996
+        }
+      }
+    ],
+    "fetched_at": "2026-03-26T23:58:44.531553"
   }
 }
